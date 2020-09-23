@@ -1,0 +1,25 @@
+.font-weight-bolder{
+	font-size: 3rem;
+}
+.nav-link{
+	color: black!important ;
+}
+.rounded-pill{
+	background-color: #FB7E65;
+}
+.navbar-brand img{
+	width:30px;
+	height: 30px;
+}
+.navbar-brand {
+	margin-left: 12px!important;
+}
+@media screen and (max-width: 768px){
+	#content .row{
+		text-align: center;
+	}
+	#content .row h1{
+		font-size: 2rem;
+	}
+
+}
